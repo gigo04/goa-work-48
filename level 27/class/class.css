@@ -1,0 +1,13 @@
+#goa1 {
+    font-size: larger;
+    background-color: rgb(180, 187, 194);
+    color: hsl(12%, 25%, 30%);
+    border: 50px solid rgb(180, 187, 134);
+}
+
+.gio {
+    font-size: xx-large;
+    background-color: hsla(200, 50%, 50%, 0.5);
+    color: hsl(20%, 40%, 60%);
+
+}
