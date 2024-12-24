@@ -1,0 +1,8 @@
+@font-face {
+    font-family:"noto_serif_georgian";
+    src: url('font/Noto_Serif_Georgian.zip');
+}
+p{
+    font-family:"noto_serif_georgian" ;
+    font-size: xx-large;
+}
