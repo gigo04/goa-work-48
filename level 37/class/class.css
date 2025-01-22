@@ -1,0 +1,27 @@
+body{
+    background-image:
+     linear-gradient(90deg, rgb(28, 35, 30, .7), rgba(255, 79, 126,0.67)),
+     linear-gradient(27deg, rgb(83, 77, 105, .5), rgba(90, 252, 95,0.5)),
+     linear-gradient(27deg, rgb(70, 53, 60, .4), rgba(3, 0, 48,0.33));
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 100vh;
+
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: black;
+    font-weight: 900;
+}
+.card{              
+    background-color: bisque;
+    width: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+    color: black;
+    font-weight: 500;
+}

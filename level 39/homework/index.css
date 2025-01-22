@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+    background-color: burlywood;
+    font-family: sans-serif;
+    text-decoration: none;
+    background-image: url(https://www.shutterstock.com/shutterstock/photos/1726142206/display_1500/stock-vector-lorem-ipsum-abstract-background-with-a-combination-of-squares-and-varied-colors-1726142206.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    margin-left: 30px;
+    list-style-type: upper-latin;
+    list-style-position: outside;  
+    text-align: center;
+
+}
+.text{
+    background-color: rgb(0, 0, 0);
+    width: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+    color: black;
+    font-weight: 5000;
+}

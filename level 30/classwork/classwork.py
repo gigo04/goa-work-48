@@ -13,16 +13,3 @@ def find_vowel(x):
     else:
         return ("ar yochag")
     print(find_vowel(a))
-
-
-
-
-
-
-
-
-
-
-
-    def min_and_max_num(num):
-        num = 

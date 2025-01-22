@@ -1,0 +1,26 @@
+* {
+
+    font-family: sans-serif;
+    text-decoration: none;
+    background-image: url(https://www.bpn.ge/media/uploads/2020/12-17/viri-1608199176.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    margin-left: 30px;
+    list-style-type: upper-latin;
+    list-style-position: outside;  
+    text-align: center;
+
+}
+.text{
+    background-color: rgb(0, 0, 0);
+    width: 250px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: left;
+    color: black;
+    font-weight: 5000;
+} 
