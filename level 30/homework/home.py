@@ -5,7 +5,7 @@ def positive_sum(arr):
 print(positive_sum([1, -2, 3, 4, -5]))
 2
 def square_sum(numbers):
-    return sum(num ** 2for num in numbers )
+    return sum(num ** 2 for num in numbers )
 
 print(square_sum([1, 2, 10]))
 3

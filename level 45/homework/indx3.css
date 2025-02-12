@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+    box-sizing: border-box;
+}
+
+.text1, .text2, .text3, .text4 {
+    font-family: sans-serif;
+    border: 5px solid rgb(0, 0, 77);
+    height: 100px;
+    width: 100px;
+
+}
+
+.container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: left;
+    box-sizing: border-box;
+    width: 100%;
+    gap: 50px; 
+}
