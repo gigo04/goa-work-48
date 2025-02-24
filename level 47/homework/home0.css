@@ -1,0 +1,87 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    box-sizing: border-box;
+
+
+
+
+}
+.gg{ 
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border: 7px solid rgb(0, 0, 0);
+    height: 100px;
+    width: 100px; 
+}
+
+.gg3{
+    display: flex;
+    gap: 120px;
+
+}
+
+
+.gg1{
+    display: flex;
+
+    flex-direction: column;
+    border: 7px solid rgb(0, 0, 0);
+    height: 100px;
+    width: 100px; 
+}
+.gg4{
+    display: flex;
+
+    flex-direction: column;
+    border: 7px solid rgb(138, 0, 0);
+    height: 100px;
+    width: 30px; 
+    gap: 300px;
+}
+.gg0{
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    gap: 120px;
+}
+.gg15{
+    display: flex;
+    flex-direction: column;
+
+    border: 7px solid rgb(138, 0, 0);
+    height: 100px;
+    
+
+    width: 100px;
+    
+    margin-left: 150px;
+}
+.gg11{
+    display: flex;
+    flex-direction: column;
+
+    border: 7px solid rgb(138, 0, 0);
+    height: 100px;
+    
+
+    width: 100px;
+    
+    margin-left: 80px;
+}
+
+
+
+
+.container{
+    display: flex;
+    border: 7px solid rgb(0, 0, 0);
+    width: 100%;
+    gap: 20px;
+
+}

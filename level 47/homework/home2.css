@@ -1,0 +1,45 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(74, 33, 112) ;
+    display: flex;
+    justify-content: flex-start;
+    align-content: space-between;
+}
+.container{
+    display: flex;
+    align-content: space-between;
+    gap: 20px;
+}
+.container1{
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    align-content: space-between;
+    gap: 20px;
+
+}
+.container2{
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    align-content: space-between;
+    gap: 20px;
+}
+.container3{
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    align-content: space-between;
+    gap: 20px;
+}
+.space{
+    display: flex;
+    justify-content: left;
+    flex-direction: row;
+    align-content: space-between;
+    gap: 20px;
+    border: 10px  solid orange;
+    height: 100px;
+    width: 100px;
+}

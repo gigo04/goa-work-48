@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: white;
+}
+
+.container {
+    position: relative;
+    width: 600px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+.tex3t4{
+    bottom: 20px;
+    left: 20px;
+    width: 100px;
+    height: 60px;
+    border: 2px solid blue;
+    position: absolute;
+}
+
+.text24{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 60px;
+    border: 2px solid blue;
+    position: absolute;
+}
+
+.text114{
+    top: 20px;
+    left: 20px;
+    width: 100px;
+    height: 60px;
+    border: 2px solid blue;
+    position: absolute;
+}
+
+.text14 {
+    bottom: 20px;
+    right: 20px;
+    width: 100px;
+    height: 60px;
+    border: 2px solid blue;
+    position: absolute;
+}
